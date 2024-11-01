@@ -12,5 +12,29 @@
   { "latn": "irankarapte", "syllables": ["i", "ran", "ka", "rap", "te"], "kana": "イランカラㇷ゚テ", "cyrl": "иранкараптэ", "hang": "이란가랍더", "latnLossy": "irankarapte" },
   { "latn": "iyairaykere", "syllables": ["i", "ya", "yi", "ray", "ke", "re"], "kana": "イヤイライケレ", "cyrl": "ияирайкэрэ", "hang": "이야이래거러", "latnLossy": "iyairaikere" },
   { "latn": "yayrayke", "syllables": ["yay", "ray", "ke"], "kana": "ヤイライケ", "cyrl": "яйрайкэ", "hang": "얘래거", "latnLossy": "yairaike" },
-  { "latn": "keyaykosiramsuypa", "syllables": ["ke", "yay", "ko", "si", "ram", "suy", "pa"], "kana": "ケヤイコシラㇺスイパ", "cyrl": "кэяйкосирамсуйпа", "hang": "거얘고시람쉬바", "latnLossy": "keyaikosiramsuipa" }
+  { "latn": "keyaykosiramsuypa", "syllables": ["ke", "yay", "ko", "si", "ram", "suy", "pa"], "kana": "ケヤイコシラㇺスイパ", "cyrl": "кэяйкосирамсуйпа", "hang": "거얘고시람쉬바", "latnLossy": "keyaikosiramsuipa" },
+  {
+    "latn": "a=nukar",
+    "syllables": ["a", "nu", "kar"],
+    "kana": "アヌカㇻ",
+    "cyrl": "а=нукар",
+    "hang": "아누가르",
+    "latnLossy": "anukar"
+  },
+  {
+    "latn": "wósekamuy",
+    "syllables": ["wó", "se", "ka", "mu", "y"],
+    "kana": "ウォセカムイ",
+    "cyrl": "вóсэкамуй",
+    "hang": "워세가무이",
+    "latnLossy": "wosekamui"
+  },
+  {
+    "latn": "Aynu itak",
+    "syllables": ["ay", "nu", "i", "tak"],
+    "kana": "アイヌ イタㇰ",
+    "cyrl": "Айну итак",
+    "hang": "애누이닥",
+    "latnLossy": "ainuitak"
+  }
 ]
