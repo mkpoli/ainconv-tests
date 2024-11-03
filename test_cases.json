@@ -1,40 +1,138 @@
 [
-  { "latn": "", "syllables": [], "kana": "", "cyrl": "", "hang": "", "latnLossy": "" },
-  { "latn": "aynu", "syllables": ["ay", "nu"], "kana": "アイヌ", "cyrl": "айну", "hang": "애누", "latnLossy": "ainu" },
-  { "latn": "itak", "syllables": ["i", "tak"], "kana": "イタㇰ", "cyrl": "итак", "hang": "이닥", "latnLossy": "itak" },
-  { "latn": "aynuitak", "syllables": ["ay", "nu", "i", "tak"], "kana": "アイヌイタㇰ", "cyrl": "айнуитак", "hang": "애누이닥", "latnLossy": "ainuitak" },
-  { "latn": "sinep", "syllables": ["si", "nep"], "kana": "シネㇷ゚", "cyrl": "синэп", "hang": "시넙", "latnLossy": "sinep" },
-  { "latn": "ruunpe", "syllables": ["ru", "un", "pe"], "kana": "ルウンペ", "cyrl": "руунпэ", "hang": "루운버", "latnLossy": "ruunpe" },
-  { "latn": "wenkur", "syllables": ["we", "n", "kur"], "kana": "ウェンクㇽ", "cyrl": "вэнкур", "hang": "펀굴", "latnLossy": "wenkur" },
-  { "latn": "pekanke", "syllables": ["pe", "kan", "ke"], "kana": "ペカンケ", "cyrl": "пэканкэ", "hang": "버간거", "latnLossy": "pekanke" },
-  { "latn": "eramuskare", "syllables": ["e", "ra", "mus", "ka", "re"], "kana": "エラムㇱカレ", "cyrl": "эрамускарэ", "hang": "어라뭇가러", "latnLossy": "eramuskare" },
-  { "latn": "hioy’oy", "syllables": ["hi", "oy", "oy"], "kana": "ヒオイオイ", "cyrl": "хиойой", "hang": "히외외", "latnLossy": "hioy’oy" },
-  { "latn": "irankarapte", "syllables": ["i", "ran", "ka", "rap", "te"], "kana": "イランカラㇷ゚テ", "cyrl": "иранкараптэ", "hang": "이란가랍더", "latnLossy": "irankarapte" },
-  { "latn": "iyairaykere", "syllables": ["i", "ya", "yi", "ray", "ke", "re"], "kana": "イヤイライケレ", "cyrl": "ияирайкэрэ", "hang": "이야이래거러", "latnLossy": "iyairaikere" },
-  { "latn": "yayrayke", "syllables": ["yay", "ray", "ke"], "kana": "ヤイライケ", "cyrl": "яйрайкэ", "hang": "얘래거", "latnLossy": "yairaike" },
-  { "latn": "keyaykosiramsuypa", "syllables": ["ke", "yay", "ko", "si", "ram", "suy", "pa"], "kana": "ケヤイコシラㇺスイパ", "cyrl": "кэяйкосирамсуйпа", "hang": "거얘고시람쉬바", "latnLossy": "keyaikosiramsuipa" },
-  {
-    "latn": "a=nukar",
-    "syllables": ["a", "nu", "kar"],
-    "kana": "アヌカㇻ",
-    "cyrl": "а=нукар",
-    "hang": "아누가르",
-    "latnLossy": "anukar"
-  },
-  {
-    "latn": "wósekamuy",
-    "syllables": ["wó", "se", "ka", "mu", "y"],
-    "kana": "ウォセカムイ",
-    "cyrl": "во́сэкамуй",
-    "hang": "워세가무이",
-    "latnLossy": "wosekamui"
-  },
-  {
-    "latn": "Aynu itak",
-    "syllables": ["ay", "nu", "i", "tak"],
-    "kana": "アイヌ イタㇰ",
-    "cyrl": "Айну итак",
-    "hang": "애누 이닥",
-    "latnLossy": "ainu itak"
-  }
+	{
+		"latn": "",
+		"syllables": [],
+		"kana": "",
+		"cyrl": "",
+		"hang": "",
+		"latnLossy": ""
+	},
+	{
+		"latn": "aynu",
+		"syllables": ["ay", "nu"],
+		"kana": "アイヌ",
+		"cyrl": "айну",
+		"hang": "애누",
+		"latnLossy": "ainu"
+	},
+	{
+		"latn": "itak",
+		"syllables": ["i", "tak"],
+		"kana": "イタㇰ",
+		"cyrl": "итак",
+		"hang": "이닥",
+		"latnLossy": "itak"
+	},
+	{
+		"latn": "aynuitak",
+		"syllables": ["ay", "nu", "i", "tak"],
+		"kana": "アイヌイタㇰ",
+		"cyrl": "айнуитак",
+		"hang": "애누이닥",
+		"latnLossy": "ainuitak"
+	},
+	{
+		"latn": "sinep",
+		"syllables": ["si", "nep"],
+		"kana": "シネㇷ゚",
+		"cyrl": "синэп",
+		"hang": "시넙",
+		"latnLossy": "sinep"
+	},
+	{
+		"latn": "ruunpe",
+		"syllables": ["ru", "un", "pe"],
+		"kana": "ルウンペ",
+		"cyrl": "руунпэ",
+		"hang": "루운버",
+		"latnLossy": "ruunpe"
+	},
+	{
+		"latn": "wenkur",
+		"syllables": ["we", "n", "kur"],
+		"kana": "ウェンクㇽ",
+		"cyrl": "вэнкур",
+		"hang": "펀굴",
+		"latnLossy": "wenkur"
+	},
+	{
+		"latn": "pekanke",
+		"syllables": ["pe", "kan", "ke"],
+		"kana": "ペカンケ",
+		"cyrl": "пэканкэ",
+		"hang": "버간거",
+		"latnLossy": "pekanke"
+	},
+	{
+		"latn": "eramuskare",
+		"syllables": ["e", "ra", "mus", "ka", "re"],
+		"kana": "エラムㇱカレ",
+		"cyrl": "эрамускарэ",
+		"hang": "어라뭇가러",
+		"latnLossy": "eramuskare"
+	},
+	{
+		"latn": "hioy’oy",
+		"syllables": ["hi", "oy", "oy"],
+		"kana": "ヒオイオイ",
+		"cyrl": "хиойой",
+		"hang": "히외외",
+		"latnLossy": "hioy’oy"
+	},
+	{
+		"latn": "irankarapte",
+		"syllables": ["i", "ran", "ka", "rap", "te"],
+		"kana": "イランカラㇷ゚テ",
+		"cyrl": "иранкараптэ",
+		"hang": "이란가랍더",
+		"latnLossy": "irankarapte"
+	},
+	{
+		"latn": "iyairaykere",
+		"syllables": ["i", "ya", "yi", "ray", "ke", "re"],
+		"kana": "イヤイライケレ",
+		"cyrl": "ияирайкэрэ",
+		"hang": "이야이래거러",
+		"latnLossy": "iyairaikere"
+	},
+	{
+		"latn": "yayrayke",
+		"syllables": ["yay", "ray", "ke"],
+		"kana": "ヤイライケ",
+		"cyrl": "яйрайкэ",
+		"hang": "얘래거",
+		"latnLossy": "yairaike"
+	},
+	{
+		"latn": "keyaykosiramsuypa",
+		"syllables": ["ke", "yay", "ko", "si", "ram", "suy", "pa"],
+		"kana": "ケヤイコシラㇺスイパ",
+		"cyrl": "кэяйкосирамсуйпа",
+		"hang": "거얘고시람쉬바",
+		"latnLossy": "keyaikosiramsuipa"
+	},
+	{
+		"latn": "a=nukar",
+		"syllables": ["a", "nu", "kar"],
+		"kana": "アヌカㇻ",
+		"cyrl": "а=нукар",
+		"hang": "아누가르",
+		"latnLossy": "anukar"
+	},
+	{
+		"latn": "wósekamuy",
+		"syllables": ["wó", "se", "ka", "mu", "y"],
+		"kana": "ウォセカムイ",
+		"cyrl": "во́сэкамуй",
+		"hang": "워세가무이",
+		"latnLossy": "wosekamui"
+	},
+	{
+		"latn": "Aynu itak",
+		"syllables": ["ay", "nu", "i", "tak"],
+		"kana": "アイヌ イタㇰ",
+		"cyrl": "Айну итак",
+		"hang": "애누 이닥",
+		"latnLossy": "ainu itak"
+	}
 ]
