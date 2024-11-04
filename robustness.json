@@ -1,0 +1,23 @@
+[
+	{
+		"from": "Hang",
+		"Hang": "왁가",
+		"Latn": "wakka",
+		"Kana": "ワㇰカ",
+		"Cyrl": "вакка"
+	},
+	{
+		"from": "Hang",
+		"Hang": "원가뮈",
+		"Latn": "wenkamuy",
+		"Kana": "ウェンカムイ",
+		"Cyrl": "венкамуй"
+	},
+	{
+		"from": "Kana",
+		"Kana": "ピﾘカ",
+		"Latn": "pirka",
+		"Cyrl": "пирка",
+		"Hang": "빌가"
+	}
+]
