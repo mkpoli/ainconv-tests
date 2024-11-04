@@ -138,7 +138,7 @@
 	{
 		"latn": "wakka",
 		"syllables": ["wak", "ka"],
-		"kana": "ワㇰカ",
+		"kana": "ワㇰカ",// Recrd f final cnsnants (jngseng)
 		"cyrl": "вакка",
 		"hang": "ᄝᅡᆨ가",
 		"latnLossy": "wakka"
@@ -147,7 +147,7 @@
 		"latn": "pewre",
 		"syllables": ["pew", "re"],
 		"kana": "ペウレ",
-		"cyrl": "пэвре",
+		"cyrl": "пэврэ",
 		"hang": "버ᇢ러",
 		"latnLossy": "peure"
 	}
