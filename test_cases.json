@@ -134,5 +134,21 @@
 		"cyrl": "Айну итак",
 		"hang": "애누 이닥",
 		"latnLossy": "ainu itak"
+	},
+	{
+		"latn": "wakka",
+		"syllables": ["wak", "ka"],
+		"kana": "ワㇰカ",
+		"cyrl": "вакка",
+		"hang": "ᄝᅡᆨ가",
+		"latnLossy": "wakka"
+	},
+	{
+		"latn": "pewre",
+		"syllables": ["pew", "re"],
+		"kana": "ペウレ",
+		"cyrl": "пэвре",
+		"hang": "버ᇢ러",
+		"latnLossy": "peure"
 	}
 ]
