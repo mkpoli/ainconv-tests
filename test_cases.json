@@ -42,19 +42,19 @@
 	{
 		"latn": "maciya",
 		"syllables": ["ma", "ci", "ya"],
-        	"kana": "マチヤ",
+		"kana": "マチヤ",
 		"cyrl": "мация",
 		"hang": "마지야",
-		"latnLossy": "maciya",
+		"latnLossy": "maciya"
 	},
 	{
-        	"latn": "acapo",
-        	"syllables": ["a", "ca", "po"],
-        	"kana": "アチャポ",
-        	"cyrl": "ацапо",
-        	"hang": "아자보",
-        	"latnLossy": "acapo"
-    	},
+		"latn": "acapo",
+		"syllables": ["a", "ca", "po"],
+		"kana": "アチャポ",
+		"cyrl": "ацапо",
+		"hang": "아자보",
+		"latnLossy": "acapo"
+	},
 	{
 		"latn": "ruunpe",
 		"syllables": ["ru", "un", "pe"],
