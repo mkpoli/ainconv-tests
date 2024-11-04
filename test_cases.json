@@ -150,5 +150,13 @@
 		"cyrl": "пэврэ",
 		"hang": "버ᇢ러",
 		"latnLossy": "peure"
+	},
+	{
+		"latn": "katkemat",
+		"syllables": ["kat", "ke", "mat"],
+		"kana": "カッケマッ",
+		"cyrl": "каткэмат",
+		"hang": "갇거맏",
+		"latnLossy": "katkemat"
 	}
 ]
