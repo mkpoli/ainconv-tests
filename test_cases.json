@@ -96,6 +96,14 @@
 		"latnLossy": "iyairaikere"
 	},
 	{
+		"latn": "iyayiraykere",
+		"syllables": ["i", "ya", "i", "ray", "ke", "re"],
+		"kana": "イヤイライケレ",
+		"cyrl": "ияирайкэрэ",
+		"hang": "이야이래거러",
+		"latnLossy": "iyairaikere"
+	},
+	{
 		"latn": "yayrayke",
 		"syllables": ["yay", "ray", "ke"],
 		"kana": "ヤイライケ",
@@ -230,5 +238,13 @@
 		"cyrl": "си́монтэк",
 		"hang": "시몬덕",
 		"latnLossy": "simontek"
+	},
+	{
+		"latn": "Awunmosir",
+		"syllables": ["a", "un", "mo", "sir"],
+		"kana": "アウンモシㇼ",
+		"cyrl": "Аунмосир",
+		"hang": "아운모실",
+		"latnLossy": "aunmosir"
 	}
 ]
