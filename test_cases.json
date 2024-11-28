@@ -174,5 +174,13 @@
 		"cyrl": "анпа",
 		"hang": "안바",
 		"latnLossy": "anpa"
+	},
+	{
+		"latn": "kuni p",
+		"syllables": ["ku", "ni", "p"],
+		"kana": "クニㇷ゚",
+		"cyrl": "кунип",
+		"hang": "구닙",
+		"latnLossy": "kunip"
 	}
 ]
