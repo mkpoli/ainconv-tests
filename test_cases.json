@@ -182,5 +182,53 @@
 		"cyrl": "кунип",
 		"hang": "구닙",
 		"latnLossy": "kunip"
+	},
+	{
+		"latn": "áne",
+		"syllables": ["á", "ne"],
+		"kana": "アネ",
+		"cyrl": "а́нэ",
+		"hang": "아너",
+		"latnLossy": "ane"
+	},
+	{
+		"latn": "kárus",
+		"syllables": ["ká", "rus"],
+		"kana": "カルㇱ",
+		"cyrl": "ка́рус",
+		"hang": "가룻",
+		"latnLossy": "karus"
+	},
+	{
+		"latn": "Níkap",
+		"syllables": ["ni", "kap"],
+		"kana": "ニカㇷ゚",
+		"cyrl": "Ни́кап",
+		"hang": "니갑",
+		"latnLossy": "nikap"
+	},
+	{
+		"latn": "Yúpet",
+		"syllables": ["yu", "pet"],
+		"kana": "ユペッ",
+		"cyrl": "Ю́пэт",
+		"hang": "유벋",
+		"latnLossy": "yupet"
+	},
+	{
+		"latn": "a=eíkra",
+		"syllables": ["a", "é", "ik", "ra"],
+		"kana": "アエイㇰラ",
+		"cyrl": "а=эи́кра",
+		"hang": "아어익라",
+		"latnLossy": "aeikra"
+	},
+	{
+		"latn": "símontek",
+		"syllables": ["si", "mon", "tek"],
+		"kana": "シモンテㇰ",
+		"cyrl": "си́монтэк",
+		"hang": "시몬덕",
+		"latnLossy": "simontek"
 	}
 ]
