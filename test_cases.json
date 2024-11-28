@@ -49,7 +49,7 @@
 	},
 	{
 		"latn": "wenkur",
-		"syllables": ["we", "n", "kur"],
+		"syllables": ["wen", "kur"],
 		"kana": "ウェンクㇽ",
 		"cyrl": "вэнкур",
 		"hang": "ᄝᅥᆫ굴",
@@ -89,7 +89,7 @@
 	},
 	{
 		"latn": "iyairaykere",
-		"syllables": ["i", "ya", "yi", "ray", "ke", "re"],
+		"syllables": ["i", "ya", "i", "ray", "ke", "re"],
 		"kana": "イヤイライケレ",
 		"cyrl": "ияирайкэрэ",
 		"hang": "이야이래거러",
@@ -121,7 +121,7 @@
 	},
 	{
 		"latn": "wósekamuy",
-		"syllables": ["wó", "se", "ka", "mu", "y"],
+		"syllables": ["wó", "se", "ka", "muy"],
 		"kana": "ウォセカムイ",
 		"cyrl": "во́сэкамуй",
 		"hang": "ᄝᅩ서가뮈",
@@ -177,7 +177,7 @@
 	},
 	{
 		"latn": "kuni p",
-		"syllables": ["ku", "ni", "p"],
+		"syllables": ["ku", "nip"],
 		"kana": "クニㇷ゚",
 		"cyrl": "кунип",
 		"hang": "구닙",
@@ -201,7 +201,7 @@
 	},
 	{
 		"latn": "Níkap",
-		"syllables": ["ni", "kap"],
+		"syllables": ["ní", "kap"],
 		"kana": "ニカㇷ゚",
 		"cyrl": "Ни́кап",
 		"hang": "니갑",
@@ -209,7 +209,7 @@
 	},
 	{
 		"latn": "Yúpet",
-		"syllables": ["yu", "pet"],
+		"syllables": ["yú", "pet"],
 		"kana": "ユペッ",
 		"cyrl": "Ю́пэт",
 		"hang": "유벋",
@@ -217,7 +217,7 @@
 	},
 	{
 		"latn": "a=eíkra",
-		"syllables": ["a", "é", "ik", "ra"],
+		"syllables": ["a", "e", "ík", "ra"],
 		"kana": "アエイㇰラ",
 		"cyrl": "а=эи́кра",
 		"hang": "아어익라",
@@ -225,7 +225,7 @@
 	},
 	{
 		"latn": "símontek",
-		"syllables": ["si", "mon", "tek"],
+		"syllables": ["sí", "mon", "tek"],
 		"kana": "シモンテㇰ",
 		"cyrl": "си́монтэк",
 		"hang": "시몬덕",
