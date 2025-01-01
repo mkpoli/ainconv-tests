@@ -249,7 +249,7 @@
 	},
 	{
 		"latn": "p/pe",
-		"syllables": ["p", "pe"],
+		"syllables": ["p", "/", "pe"],
 		"kana": "ㇷ゚/ペ",
 		"cyrl": "п/пэ",
 		"hang": "ㅂ/버",
