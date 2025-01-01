@@ -32,6 +32,14 @@
 		"latnLossy": "ainuitak"
 	},
 	{
+		"latn": "Aynu itak",
+		"syllables": ["ay", "nu", " ", "i", "tak"],
+		"kana": "アイヌ イタㇰ",
+		"cyrl": "Айну итак",
+		"hang": "애누 이닥",
+		"latnLossy": "ainu itak"
+	},
+	{
 		"latn": "sinep",
 		"syllables": ["si", "nep"],
 		"kana": "シネㇷ゚",
@@ -134,14 +142,6 @@
 		"cyrl": "во́сэкамуй",
 		"hang": "ᄝᅩ서가뮈",
 		"latnLossy": "wosekamui"
-	},
-	{
-		"latn": "Aynu itak",
-		"syllables": ["ay", "nu", "i", "tak"],
-		"kana": "アイヌ イタㇰ",
-		"cyrl": "Айну итак",
-		"hang": "애누 이닥",
-		"latnLossy": "ainu itak"
 	},
 	{
 		"latn": "wakka",
