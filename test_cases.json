@@ -254,5 +254,21 @@
 		"cyrl": "п/пэ",
 		"hang": "ㅂ/버",
 		"latnLossy": "p/pe"
+	},
+	{
+		"latn": "sineno  yáyerampewtekkare",
+		"syllables": ["si", "ne", "no", "  ", "yá", "ye", "ram", "pew", "tek", "ka", "re"],
+		"kana": "シネノ  ヤイェラㇺぺウテッカレ",
+		"cyrl": "синэно  яерампэвтеккаре",
+		"hang": "시너노  야여람버ᇢ덕가러",
+		"latnLossy": "sineno yayerampeutekkare"
+	},
+	{
+		"latn": "ônâ",
+		"syllables": ["ô", "nâ"],
+		"kana": "オーナー",
+		"cyrl": "она",
+		"hang": "오나",
+		"latnLossy": "ona"
 	}
-]
+}
