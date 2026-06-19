@@ -61,7 +61,8 @@
 		"kana": "ウェンクㇽ",
 		"cyrl": "вэнкур",
 		"hang": "ᄝᅥᆫ굴",
-		"latnLossy": "wenkur"
+		"latnLossy": "wenkur",
+		"variants": [{ "options": { "useWe": true }, "kana": "ヱンクㇽ" }]
 	},
 	{
 		"latn": "pekanke",
@@ -69,7 +70,8 @@
 		"kana": "ペカンケ",
 		"cyrl": "пэканкэ",
 		"hang": "버간거",
-		"latnLossy": "pekanke"
+		"latnLossy": "pekanke",
+		"variants": [{ "options": { "useSmallN": true }, "kana": "ペカㇴケ" }]
 	},
 	{
 		"latn": "eramuskare",
@@ -117,7 +119,8 @@
 		"kana": "ヤイライケ",
 		"cyrl": "яйрайкэ",
 		"hang": "얘래거",
-		"latnLossy": "yairaike"
+		"latnLossy": "yairaike",
+		"variants": [{ "options": { "useSmallI": true }, "kana": "ヤィラィケ" }]
 	},
 	{
 		"latn": "keyaykosiramsuypa",
@@ -141,7 +144,8 @@
 		"kana": "ウォセカムイ",
 		"cyrl": "во́сэкамуй",
 		"hang": "ᄝᅩ서가뮈",
-		"latnLossy": "wosekamui"
+		"latnLossy": "wosekamui",
+		"variants": [{ "options": { "useWo": true }, "kana": "ヲセカムイ" }]
 	},
 	{
 		"latn": "wakka",
@@ -157,7 +161,8 @@
 		"kana": "ペウレ",
 		"cyrl": "пэврэ",
 		"hang": "버ᇢ러",
-		"latnLossy": "peure"
+		"latnLossy": "peure",
+		"variants": [{ "options": { "useSmallU": true }, "kana": "ペゥレ" }]
 	},
 	{
 		"latn": "katkemat",

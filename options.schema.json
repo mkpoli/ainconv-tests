@@ -1,0 +1,54 @@
+{
+	"description": "Canonical catalog of conversion options shared by ainconv-js, ainconv-py and ainconv-rs. Each implementation maps the camelCase `key` to its own idiomatic naming (e.g. snake_case) and must support exactly this set; the per-language test suites assert parity against this file. The `variants` arrays in test_cases.json only use keys defined here.",
+	"options": [
+		{
+			"key": "ellipsisToAscii",
+			"type": "boolean",
+			"default": false,
+			"direction": "kana2latn",
+			"description": "Rewrite the horizontal ellipsis … (U+2026) as three ASCII full stops `...`. Default keeps the single semantically-correct character."
+		},
+		{
+			"key": "useWi",
+			"type": "boolean",
+			"default": false,
+			"direction": "latn2kana",
+			"description": "Keep ヰ (wi) instead of spelling it out as ウィ."
+		},
+		{
+			"key": "useWe",
+			"type": "boolean",
+			"default": false,
+			"direction": "latn2kana",
+			"description": "Keep ヱ (we) instead of spelling it out as ウェ."
+		},
+		{
+			"key": "useWo",
+			"type": "boolean",
+			"default": false,
+			"direction": "latn2kana",
+			"description": "Keep ヲ (wo) instead of spelling it out as ウォ."
+		},
+		{
+			"key": "useSmallI",
+			"type": "boolean",
+			"default": false,
+			"direction": "latn2kana",
+			"description": "Keep the small ィ for the -y coda instead of イ."
+		},
+		{
+			"key": "useSmallU",
+			"type": "boolean",
+			"default": false,
+			"direction": "latn2kana",
+			"description": "Keep the small ゥ for the -w coda instead of ウ."
+		},
+		{
+			"key": "useSmallN",
+			"type": "boolean",
+			"default": false,
+			"direction": "latn2kana",
+			"description": "Keep ㇴ for the -n coda instead of ン."
+		}
+	]
+}
